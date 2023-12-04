@@ -94,6 +94,7 @@ docker-compose exec web python manage.py collectstatic --no-input
 с телом запроса "completed": "True"
 ```
 
+### Все вводимые поля проверены на соответствие типам в соотвествии с типами опианнми в моделях.
 
 ### Автор
 Анатолий Редько
