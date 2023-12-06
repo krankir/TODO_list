@@ -35,7 +35,7 @@ DB_PORT=5432
 ```
 
 ### Запуск проекта в контейнерах Docker
-- Перейдите в раздел infra для сборки docker-compose
+- Перейдите в иеректорию с файлом docker-compose
 ```
 docker-compose up -d --build 
 ```
